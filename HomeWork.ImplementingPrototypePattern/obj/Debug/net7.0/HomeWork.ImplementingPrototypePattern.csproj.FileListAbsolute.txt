@@ -1,0 +1,15 @@
+C:\Users\Константин\Documents\HomeWork.ImplementingPrototypePattern\HomeWork.ImplementingPrototypePattern\bin\Debug\net7.0\HomeWork.ImplementingPrototypePattern.exe
+C:\Users\Константин\Documents\HomeWork.ImplementingPrototypePattern\HomeWork.ImplementingPrototypePattern\bin\Debug\net7.0\HomeWork.ImplementingPrototypePattern.deps.json
+C:\Users\Константин\Documents\HomeWork.ImplementingPrototypePattern\HomeWork.ImplementingPrototypePattern\bin\Debug\net7.0\HomeWork.ImplementingPrototypePattern.runtimeconfig.json
+C:\Users\Константин\Documents\HomeWork.ImplementingPrototypePattern\HomeWork.ImplementingPrototypePattern\bin\Debug\net7.0\HomeWork.ImplementingPrototypePattern.dll
+C:\Users\Константин\Documents\HomeWork.ImplementingPrototypePattern\HomeWork.ImplementingPrototypePattern\bin\Debug\net7.0\HomeWork.ImplementingPrototypePattern.pdb
+C:\Users\Константин\Documents\HomeWork.ImplementingPrototypePattern\HomeWork.ImplementingPrototypePattern\obj\Debug\net7.0\HomeWork.ImplementingPrototypePattern.csproj.AssemblyReference.cache
+C:\Users\Константин\Documents\HomeWork.ImplementingPrototypePattern\HomeWork.ImplementingPrototypePattern\obj\Debug\net7.0\HomeWork.ImplementingPrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\Documents\HomeWork.ImplementingPrototypePattern\HomeWork.ImplementingPrototypePattern\obj\Debug\net7.0\HomeWork.ImplementingPrototypePattern.AssemblyInfoInputs.cache
+C:\Users\Константин\Documents\HomeWork.ImplementingPrototypePattern\HomeWork.ImplementingPrototypePattern\obj\Debug\net7.0\HomeWork.ImplementingPrototypePattern.AssemblyInfo.cs
+C:\Users\Константин\Documents\HomeWork.ImplementingPrototypePattern\HomeWork.ImplementingPrototypePattern\obj\Debug\net7.0\HomeWork.ImplementingPrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Documents\HomeWork.ImplementingPrototypePattern\HomeWork.ImplementingPrototypePattern\obj\Debug\net7.0\HomeWork.ImplementingPrototypePattern.dll
+C:\Users\Константин\Documents\HomeWork.ImplementingPrototypePattern\HomeWork.ImplementingPrototypePattern\obj\Debug\net7.0\refint\HomeWork.ImplementingPrototypePattern.dll
+C:\Users\Константин\Documents\HomeWork.ImplementingPrototypePattern\HomeWork.ImplementingPrototypePattern\obj\Debug\net7.0\HomeWork.ImplementingPrototypePattern.pdb
+C:\Users\Константин\Documents\HomeWork.ImplementingPrototypePattern\HomeWork.ImplementingPrototypePattern\obj\Debug\net7.0\HomeWork.ImplementingPrototypePattern.genruntimeconfig.cache
+C:\Users\Константин\Documents\HomeWork.ImplementingPrototypePattern\HomeWork.ImplementingPrototypePattern\obj\Debug\net7.0\ref\HomeWork.ImplementingPrototypePattern.dll
